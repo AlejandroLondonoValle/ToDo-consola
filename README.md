@@ -1,4 +1,4 @@
-# 📝 **ToDo en C#** - ¡Organiza tu vida de forma sencilla! 📋
+# 📝**ToDo-List** - ¡Organiza tu vida de forma sencilla!📋
 
 
 ¡Bienvenido a mi proyecto **ToDo Console App**! Este es un programa simple y eficiente que te permite gestionar tus tareas diarias desde la consola. Puedes agregar, ver y almacenar tareas en un archivo `.txt` para tener siempre a la mano lo que necesitas hacer. Todo con un enfoque práctico y sin complicaciones.
