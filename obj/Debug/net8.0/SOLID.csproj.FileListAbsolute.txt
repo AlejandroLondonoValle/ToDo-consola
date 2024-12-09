@@ -1,0 +1,14 @@
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/bin/Debug/net8.0/SOLID
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/bin/Debug/net8.0/SOLID.deps.json
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/bin/Debug/net8.0/SOLID.runtimeconfig.json
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/bin/Debug/net8.0/SOLID.dll
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/bin/Debug/net8.0/SOLID.pdb
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.AssemblyInfoInputs.cache
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.AssemblyInfo.cs
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.csproj.CoreCompileInputs.cache
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.dll
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/refint/SOLID.dll
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.pdb
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/SOLID.genruntimeconfig.cache
+/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/Debug/net8.0/ref/SOLID.dll
