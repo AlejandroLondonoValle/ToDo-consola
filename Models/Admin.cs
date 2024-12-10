@@ -1,13 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace SOLID.Models;
 
 public class Admin
 {
-    private string archivoTareas = "tareas.txt";
+    private string archivoTareas = "Tareas.txt";
     private GestorTareas gestor;
 
     // Constructor para inicializar el gestor y cargar las tareas desde el archivo
@@ -22,7 +17,7 @@ public class Admin
         }
     }
 
-    // Menú para la gestión de tareas
+
     public void Menu()
     {
         while (true)
@@ -42,44 +37,41 @@ public class Admin
             Console.WriteLine("=========================================================================");
             Console.Write("Seleccione una opción del menú: ");
 
-            // Validación para asegurar que la opción es un número
             if (!int.TryParse(Console.ReadLine(), out int option))
             {
                 Console.WriteLine("Opción no válida, por favor ingrese un número.");
-                System.Threading.Thread.Sleep(2000);
+                Thread.Sleep(2000);
                 continue;
             }
 
-            // Controlar las diferentes opciones del menú
             switch (option)
             {
                 case 1:
-                    // Agregar tarea
                     Console.Write("Ingresa la descripción de la tarea: ");
                     string? descripcion = Console.ReadLine();
                     gestor.AgregarTarea(descripcion);
                     break;
+
                 case 2:
-                    // Mostrar tareas
                     gestor.MostrarTareas();
                     Thread.Sleep(7000);
-
                     break;
+
                 case 3:
-                    // Eliminar tarea
                     gestor.EliminarTarea();
                     break;
+
                 case 4:
-                    // Guardar tareas en archivo
                     Archivo.GuardarTareas(gestor.ObtenerTareas(), archivoTareas);
                     break;
+
                 case 0:
-                    // Salir
                     Environment.Exit(0);
                     break;
+
                 default:
                     Console.WriteLine("Opción no válida, intente nuevamente.");
-                    System.Threading.Thread.Sleep(2000);
+                    Thread.Sleep(2000);
                     break;
             }
         }

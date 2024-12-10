@@ -19,7 +19,7 @@ class Program
         // Crear una instancia del administrador
         Admin admin = new Admin();
         
-        // Llamar al menú para ejecutar la aplicación
+        // Llamar al menú 
         admin.Menu();
     }
 }

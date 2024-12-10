@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj": {}
+    "/home/riwip5-007/escritorio/Música/Contenido_Riwi/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj": {}
   },
   "projects": {
-    "/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj": {
+    "/home/riwip5-007/escritorio/Música/Contenido_Riwi/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj",
+        "projectUniqueName": "/home/riwip5-007/escritorio/Música/Contenido_Riwi/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj",
         "projectName": "SOLID",
-        "projectPath": "/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj",
+        "projectPath": "/home/riwip5-007/escritorio/Música/Contenido_Riwi/C# micky/Ciclo 1/Principios-Solid/SOLID/SOLID.csproj",
         "packagesPath": "/home/riwip5-007/.nuget/packages/",
-        "outputPath": "/home/riwip5-007/escritorio/Música/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/",
+        "outputPath": "/home/riwip5-007/escritorio/Música/Contenido_Riwi/C# micky/Ciclo 1/Principios-Solid/SOLID/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/riwip5-007/.nuget/NuGet/NuGet.Config"
